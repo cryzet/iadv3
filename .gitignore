@@ -1,0 +1,2 @@
+# Los instaladores se publican como assets del Release, no dentro del repositorio.
+releases/*.exe
