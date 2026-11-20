@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.0",
-    "url":  "https://github.com/cryzet/iadv3/releases/download/v1.0.0/IADv3Setup-1.0.0.exe",
-    "sha256":  "3ded5aca849852d42964bac03f57995b62c30615eb7e7ea835b239efe70814df",
-    "notes":  "Versión inicial.",
-    "published_at":  "2026-11-14T18:52:41Z"
+    "version":  "1.0.5",
+    "url":  "https://github.com/cryzet/iadv3/releases/download/v1.0.5/IADv3Setup-1.0.5.exe",
+    "sha256":  "9d15e2ee7ba9fff29ed0d98e655c77a47b966cca6a874fc0cfdf65c702cb59b4",
+    "notes":  "Version 1.0.5.",
+    "published_at":  "2026-11-20T19:44:20Z"
 }
